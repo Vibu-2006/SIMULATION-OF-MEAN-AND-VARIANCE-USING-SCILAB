@@ -26,20 +26,20 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 ## PROGRAM
 
-<img width="729" height="879" alt="image" src="https://github.com/user-attachments/assets/bd9842cd-5f3b-432a-931b-358932fe7db0" />
-<img width="509" height="173" alt="image" src="https://github.com/user-attachments/assets/5dcbfeb5-a1d0-480f-b7ba-5e37b73590e7" />
+<img width="1886" height="953" alt="Screenshot 2025-10-25 231813" src="https://github.com/user-attachments/assets/0ac9279d-a911-42f4-83a5-2b2055e3f86c" />
+
 
 ## CALCULATION
 
-![WhatsApp Image 2025-10-18 at 13 13 42_0eec18b0](https://github.com/user-attachments/assets/c9bd63a7-bbbf-4ee4-951b-20d54ef6dde3)
-![WhatsApp Image 2025-10-18 at 13 13 42_2b6fdfc6](https://github.com/user-attachments/assets/9f441196-0f01-474a-a6e0-dcc1554f33b9)
-![WhatsApp Image 2025-10-18 at 13 13 41_7a1f751a](https://github.com/user-attachments/assets/c6966459-b724-4c4b-9316-2218cd752844)
+![WhatsApp Image 2025-10-25 at 22 57 52_69f20b79](https://github.com/user-attachments/assets/855f1421-1707-4cad-9565-7f9cde90f305)
+![WhatsApp Image 2025-10-25 at 22 57 52_da04aed6](https://github.com/user-attachments/assets/d9f68388-7486-451d-8aad-1169024534da)
+![WhatsApp Image 2025-10-25 at 22 57 52_6497634e](https://github.com/user-attachments/assets/1c87523d-33f0-4c63-b5eb-2ee3214fc44c)
 
 ## OUTPUT
 
-<img width="605" height="368" alt="image" src="https://github.com/user-attachments/assets/f1ecb60b-1e21-48e7-b15f-8320faccde67" />
+<img width="898" height="415" alt="Screenshot 2025-10-25 231930" src="https://github.com/user-attachments/assets/d6b7c6be-39ba-4f97-9639-4b5701a4b5c0" />
 
-<img width="758" height="718" alt="image" src="https://github.com/user-attachments/assets/705dfa6c-9f2e-4669-97e4-5d9078cff740" />
+<img width="753" height="715" alt="Screenshot 2025-10-25 231944" src="https://github.com/user-attachments/assets/162e3e2c-1b2e-4b18-be56-122698058e47" />
 
 ## RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
